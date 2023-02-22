@@ -1,6 +1,9 @@
 # github-final-project
-p=int(input("principle amount: "))
-t=int(input("time: "))
-r=float(input("rate of intrest: "))
-simple_intrest=p*t*r
-print(simple_intrest)
+inputs
+  p - principal amount
+  t - time taken
+  r - rate of interest
+  
+output
+  s - simple intrest
+  s=p*t*r
